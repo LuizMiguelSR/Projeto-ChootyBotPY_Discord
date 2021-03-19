@@ -35,4 +35,4 @@ if __name__ == "__main__":
     for modulo in modulos:
         client.load_extension(modulo)
     
-    client.run("ODIwMTMwMzc3MTIwMjE5MTQ3.YEwr7w.CsY5Ijd1K2NRKygUJvWwp3mB23Y")
+    client.run("TOKEN")
